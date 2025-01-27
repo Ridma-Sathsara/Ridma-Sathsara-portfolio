@@ -51,9 +51,9 @@ Follow these steps to set up the portfolio locally:
 2. Navigate to the project directory:
 
 3. Install dependencies:
-
+   ```bash
    npm install
 
 4. Start the development server:   
-
+   ```bash
    npm install
